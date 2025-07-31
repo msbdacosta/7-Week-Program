@@ -1,0 +1,16 @@
+{
+  "name": "7-week-program",
+  "version": "1.0.0",
+  "description": "This 7-week program teaches core programming concepts by comparing how they work across 7 languages. Each week focuses on one major topic (like loops or data structures). Each day introduces that topic in one language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "typescript": "^5.8.3"
+  }
+}
